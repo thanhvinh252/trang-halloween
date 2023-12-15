@@ -1,0 +1,60 @@
+/* CSS code here */
+
+/* Style for the header */
+header {
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 15px;
+}
+
+/* Style for the navigation links */
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 10px;
+}
+
+/* Style for the body */
+body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+}
+
+/* Style for the events section */
+.events {
+    background-color: #f5d8d8;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+/* Style for the pictures section */
+.pictures {
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+/* Style for the footer */
+footer {
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 15px;
+}
+
+/* Style for the footer links */
+footer ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+footer ul li {
+    display: inline;
+    margin-right: 10px;
+}
